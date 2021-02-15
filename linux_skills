@@ -1,2 +1,5 @@
 #install the fonts to solve the displaying problem about deepin-wine-wechat
 sudo apt-get install fonts-droid-fallback ttf-wqy-zenhei ttf-wqy-microhei fonts-arphic-ukai fonts-arphic-uming
+
+#use cmd install exe in wine
+WINEPREFIX=~/.deepinwine/Deepin-XXX deepin-wine  [pakage path]
