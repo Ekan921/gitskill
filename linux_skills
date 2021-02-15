@@ -3,3 +3,6 @@ sudo apt-get install fonts-droid-fallback ttf-wqy-zenhei ttf-wqy-microhei fonts-
 
 #use cmd install exe in wine
 WINEPREFIX=~/.deepinwine/Deepin-XXX deepin-wine  [pakage path]
+
+#uninstall the programe
+sudo apt-get --purge remove XXX
